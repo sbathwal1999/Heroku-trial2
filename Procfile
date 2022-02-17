@@ -1,1 +1,1 @@
-web: gunicorn flight:app --log-file -
+web: gunicorn flight:app
